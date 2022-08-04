@@ -1,0 +1,12 @@
+# Virtual env
+venv/
+
+# Cache 
+__pycache__
+
+# Environment vars
+/*.env 
+
+# Config
+.vscode
+.deta
